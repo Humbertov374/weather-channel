@@ -1,4 +1,4 @@
-# Password Generator
+# Weather Channel
 ## Version 1.0.0
 #
 
